@@ -1,0 +1,40 @@
+台灣YT,#genre#
+01 CNBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+35 momo購物 2 台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+46 東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+48 momo購物 1 台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+52 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+53 民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+57 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+59 viva購物 1 台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+60 viva購物 2 台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+60 東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+82 台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+83 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+85 三立LIVE新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+86 三立iNews新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+87 mnews‧鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+92 運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+93 全球財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+
+寰宇全球新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+
+台灣,#genre#
+64 LS龍祥電影台,http://107.151.203.111:2209/135/hk.php?id=lxsdt
+66 東森洋片台,http://120.84.96.104:808/hls/33/index.m3u8
+
+福利頻道_6868,#genre#
+松視1台,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
+松視2台,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
+松視3台,mitv://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
+驚豔成人電影台,mitv://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
+香蕉台,mitv://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
+LOOK TV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
+HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
+K,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
+彩虹e台,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
+彩虹電影台,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
+JStar極限電影台,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
+PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
