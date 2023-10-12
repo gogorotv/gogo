@@ -36,13 +36,13 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./duboku/duboku.json"
+      "ext": "./json/duboku/duboku.json"
     },
 	{
 	  "key":"可乐",
 	  "name":"Cokemv",
 	  "type":3,
-	  "api":"./cokemv/drpy2.min.js",
+	  "api":"./json/cokemv/drpy2.min.js",
 	  "ext":"./cokemv/cokemv.js"
 	},
 	{
