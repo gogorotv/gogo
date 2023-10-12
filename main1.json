@@ -38,13 +38,7 @@
       "changeable": 1,
       "ext": "./json/duboku/duboku.json"
     },
-	{
-	  "key":"可乐",
-	  "name":"Cokemv",
-	  "type":3,
-	  "api":"./json/cokemv/drpy2.min.js",
-	  "ext":"./json/cokemv/cokemv.js"
-	},
+	{"key":"可乐","name":"Cokemv","type":3,"api":"https://cf.weixine.net/js/lib/drpy2.min.js","ext":"https://cf.weixine.net/js/cokemv.js"},
 	{
       "key": "星星",
       "name": "星世界",
