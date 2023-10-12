@@ -43,7 +43,7 @@
 	  "name":"Cokemv",
 	  "type":3,
 	  "api":"./json/cokemv/drpy2.min.js",
-	  "ext":"./cokemv/cokemv.js"
+	  "ext":"./json/cokemv/cokemv.js"
 	},
 	{
       "key": "星星",
