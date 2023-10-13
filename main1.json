@@ -39,18 +39,7 @@
       "changeable": 1,
       "ext": "./hjdhnx/js/duboku.json"
     },
-    {
-       "key": "drpy_js_moflix影视",
-       "name": "Moflix影視(4★)",
-        "type": 3,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "changeable": 1,
-        "api": "./hjdhnx/libs/drpy2.min.js",
-        "ext": "/hjdhnx/js/qZmf.js"
-     },
-	{"key":"drpy_js_哔哩兔","name":"嗶哩兔(4★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/哔哩兔.js"},
+    	{"key":"drpy_js_哔哩兔","name":"嗶哩兔(4★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/哔哩兔.js"},
 	{"key":"drpy_js_皮皮鸭","name":"皮皮鴨(4★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/皮皮鸭.js"},
 	{ "key":"dr_爱壹帆[飞]", "name":"愛壹帆(5★)", "type":3, "api":"./hjdhnx/libs/drpy2.min.js", "searchable":2, "quickSearch":0, "filterable":1, "ext":"./hjdhnx/js/爱壹帆[飞].js" },  
 	{"key":"可乐","name":"Cokemv(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/cokemv.js"},
@@ -80,7 +69,18 @@
 	{"key":"drpy_js_HDmoli","name":"HDmoli","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/js/HDmoli.js"},
 	{"key":"drpy_js_低端","name":"低端影視","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/js/ddys.js"},
 	{"key":"drpy_js_胖虎影视","name":"胖虎影視","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/js/胖虎.js"},
-	{
+     {
+       "key": "drpy_js_moflix影视",
+       "name": "Moflix影視(4★)",
+        "type": 3,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "changeable": 1,
+        "api": "./hjdhnx/libs/drpy2.min.js",
+        "ext": "/hjdhnx/js/qZmf.js"
+     },
+     {
         "key": "haiwaikan",
         "name": "haiwaikan影視",
         "type": 1,
