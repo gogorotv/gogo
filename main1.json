@@ -39,7 +39,7 @@
       "changeable": 1,
       "ext": "./json/duboku/duboku.json"
     },
-	{"key": "yanetflix","name": "鸭奈飞","type": 3,"api": "AppYsV2.js","ext": "https://yanetflix.me/api.php/app/"},
+	{"key": "csp_XYQHiker_鸭奈飞影视","name":"🦆鸭奈飞影视(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/鸭奈飞影视.json"},
    	{ "key":"dr_爱壹帆[飞]", "name":"愛壹帆(5★)", "type":3, "api":"./hjdhnx/libs/drpy2.min.js", "searchable":2, "quickSearch":0, "filterable":1, "ext":"./hjdhnx/js/爱壹帆[飞].js" },  
 	{"key":"可乐","name":"Cokemv(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/cokemv.js"},
 	{"key":"drpy_js_大米星球","name":"大米星球(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/大米星球.js"},
