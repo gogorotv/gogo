@@ -78,7 +78,7 @@
         "filterable": 1,
         "changeable": 1,
         "api": "./hjdhnx/libs/drpy2.min.js",
-        "ext": "/hjdhnx/js/qZmf.js"
+        "ext": "./hjdhnx/js/qZmf.js"
      },
      {
         "key": "haiwaikan",
