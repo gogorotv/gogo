@@ -39,7 +39,7 @@
       "changeable": 1,
       "ext": "./json/duboku/duboku.json"
     },
-	{"key":"drpy_js_爱壹帆[飞]","name":"爱壹帆[飞]","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/js/爱壹帆[飞].js"},
+	{"key":"dr_爱壹帆[飞]","name":"爱壹帆[飞]","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/js/爱壹帆[飞].js"},
 	{"key":"可乐","name":"Cokemv(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/cokemv.js"},
 	{"key":"drpy_js_大米星球","name":"大米星球(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/大米星球.js"},
 	{
