@@ -39,7 +39,7 @@
       "changeable": 1,
       "ext": "./json/duboku/duboku.json"
     },
-	{"key":"可乐","name":"Cokemv(5★)","type":3,"api":"https://cf.weixine.net/js/lib/drpy2.min.js","ext":"https://cf.weixine.net/js/cokemv.js"},
+	{"key":"可乐","name":"Cokemv(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/cokemv.js"},
 	{"key":"drpy_js_大米星球","name":"大米星球(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/大米星球.js"},
 	{
       "key": "星星",
