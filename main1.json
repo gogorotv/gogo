@@ -1,5 +1,5 @@
 {
-  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20230625.jar"
+  "spider": "./jar/custom_spider.jar",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -39,8 +39,7 @@
       "changeable": 1,
       "ext": "./json/duboku/duboku.json"
     },
-	{"key":"鸭奈飞","name":"🦆鸭奈飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
-   	{ "key":"dr_爱壹帆[飞]", "name":"愛壹帆(5★)", "type":3, "api":"./hjdhnx/libs/drpy2.min.js", "searchable":2, "quickSearch":0, "filterable":1, "ext":"./hjdhnx/js/爱壹帆[飞].js" },  
+	{ "key":"dr_爱壹帆[飞]", "name":"愛壹帆(5★)", "type":3, "api":"./hjdhnx/libs/drpy2.min.js", "searchable":2, "quickSearch":0, "filterable":1, "ext":"./hjdhnx/js/爱壹帆[飞].js" },  
 	{"key":"可乐","name":"Cokemv(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/cokemv.js"},
 	{"key":"drpy_js_大米星球","name":"大米星球(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/大米星球.js"},
 	{
