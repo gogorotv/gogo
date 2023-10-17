@@ -39,8 +39,7 @@
       "changeable": 1,
       "ext": "./hjdhnx/js/duboku.json"
     },
-	{"key": "yanetflix","name": "鸭奈飞","type": 3,"api": ".https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/AppYsV2.js","ext": "https://yanetflix.me/api.php/app/"},
-    	{"key":"drpy_js_哔哩兔","name":"嗶哩兔(4★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/哔哩兔.js"},
+	{"key":"drpy_js_哔哩兔","name":"嗶哩兔(4★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/哔哩兔.js"},
 	{"key":"drpy_js_皮皮鸭","name":"皮皮鴨(4★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/皮皮鸭.js"},
 	{ "key":"dr_爱壹帆[飞]", "name":"愛壹帆(5★)", "type":3, "api":"./hjdhnx/libs/drpy2.min.js", "searchable":2, "quickSearch":0, "filterable":1, "ext":"./hjdhnx/js/爱壹帆[飞].js" },  
 	{"key":"可乐","name":"Cokemv(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/cokemv.js"},
@@ -76,6 +75,7 @@
     },
     {"key":"drpy_js_LIBVIO","name":"LIBVIO(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/js/LIBVIO.js"},
     {"key":"drpy_js_Voflix","name":"Voflix(5★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/js/voflix.js"},
+    {"key": "yanetflix","name":"鸭奈飞","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/AppYsV2.js","ext":"https://yanetflix.me/api.php/app/"},
     {"key":"荐片","name":"荐片-1(4★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","playerType":1,"searchable":1,"quickSearch":1,"ext":"https://qu.ax/GWWS.js"},
     {"key":"drpy_js_荐片","name":"荐片-2(4★)","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/js/荐片.js"},
     {"key":"drpy_js_HDmoli","name":"HDmoli","type":3,"api":"./hjdhnx/libs/drpy2.min.js","ext":"./hjdhnx/js/js/HDmoli.js"},
